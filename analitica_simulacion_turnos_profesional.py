@@ -1,0 +1,10 @@
+id = 1
+codigo_profesional = "NWA"
+fecha = "2024-06-01"
+hora_inicio = "08:00"
+hora_fin = "18:00"
+tipo_turno = "Diurno"
+horas_programadas = 25.5
+horas_ejecutadas = 2.5
+sede = "Sede Central"
+estado = "Activo"
