@@ -1,0 +1,10 @@
+id=1
+codigo_profesional= "Medico1"
+tipo_credencial= "Cedula"
+entidad_emisora= "Sura"
+fecha_expedicion= "23/07/2025"
+fecha_vencimiento= "23/07/2026"
+numero_registro= "00001"
+estado_verificacion= "Cerrado"
+vigente= True
+observacion= "Buen Medico, proviene de Sura y tiene excelentes reseñas"
