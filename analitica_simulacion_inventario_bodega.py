@@ -1,0 +1,10 @@
+id=123
+codigo_insumo="LXT789"
+bodega="material biologico"
+lote="investigacion"
+cantidad_disponible=34
+cantidad_reservada=12
+fecha_vencimiento="26-09-2026"
+ubicacion="Medellin"
+fecha_ultimo_conteo="01-06-2026"
+estado="activo"
