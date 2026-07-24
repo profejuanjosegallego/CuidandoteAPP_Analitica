@@ -1,0 +1,10 @@
+id= 1
+codigo_muestra= "TM-2026-0001"
+flebotomista= "Maria Gomez"
+fecha_visita= 2026-07-23
+hora_llegada= "08:15"
+hora_salida= "08:35"
+direccion= "Calle 123 #45-67"
+zona= "Norte"
+intentos= 1
+resultado_visita= "Exitosa"

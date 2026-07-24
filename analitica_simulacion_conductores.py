@@ -1,3 +1,4 @@
+
 "documento": "object",
     "nombre_completo": "object",
     "licencia_categoria": "category",
@@ -6,3 +7,4 @@
     "zona_asignada": "category",
     "calificacion": "float646",
     "activo": "bool"
+

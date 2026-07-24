@@ -1,0 +1,9 @@
+codigo_muestra = "MUE-20260723-0001"
+documento_paciente = "CC1035417416"
+tipo_muestra = "Sangre"
+fecha_toma = "2026-07-23 09:15:00"
+hora_toma = "09:15"
+temperatura_transporte = 4.2
+volumen_ml = 5.0
+estado_muestra = "Recibida"
+laboratorio_destino = "Laboratorio Central"
