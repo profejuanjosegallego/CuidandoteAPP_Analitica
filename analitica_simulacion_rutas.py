@@ -1,0 +1,10 @@
+id = 1
+codigo_ruta = "ms33"
+fecha = "12-08-20026"
+zona = "Barrios frios"
+hora_inicio = "08:00"
+hora_fin = "09:00"
+num_paradas = 1
+distancia_km = 2
+combustible_galones = 3
+estado_ruta = "Operativa"
