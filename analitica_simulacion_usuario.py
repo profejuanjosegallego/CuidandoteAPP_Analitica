@@ -1,0 +1,9 @@
+documento=123456
+nombre_completo="Juan José Gallego Mesa" 
+correo="juan@gmail.com"
+rol="Medico Cirujano"
+area="diagnosticos clinicos"
+fecha_registro="2026-07-23" 
+ultimo_acceso="2026-06-23"
+intentos_fallidos =5
+activo=True
