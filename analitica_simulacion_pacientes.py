@@ -1,4 +1,4 @@
-#Analítica de simulación de citas médicas
+#Analítica de simulación de pacientes 
 id=1 #Consecutivo único, se puede generar automáticamente
 documento='123456789'
 nombre_completo='Juan Perez'
