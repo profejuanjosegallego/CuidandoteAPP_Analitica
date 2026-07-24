@@ -1,0 +1,10 @@
+id = 20
+nit = "345789"
+razon_social = "Insumos S.A.S"
+ciudad = "Medellin"
+contacto = "Cr 81B #49F-39 int 401"
+telefono = "320-456-0089"
+calificacion= 4.5
+dias_entrega = 4
+contrato_vigente = True
+fecha_registro =" 2026-02-15"
