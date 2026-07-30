@@ -1,0 +1,10 @@
+id = 1
+documento = "CC-1032456789"
+nombre_completo = "Maria Fernanda Gonzalez"
+especialidad = "Medicina General"
+tipo_contrato = "Indefinido"
+ciudad = "Medellin"
+fecha_ingreso = "2021-03-15"
+anos_experiencia = 8
+tarifa_hora = 85000.0
+activo = True
